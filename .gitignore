@@ -1,4 +1,5 @@
 venv/
 
-
+git config --global user.email "aliya_bk97@mail.ru"
+git config --global user.name "batygayeva"
 
